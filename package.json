@@ -1,0 +1,23 @@
+{
+  "name": "com.fmod.integration",
+  "version": "2.0.5",
+  "displayName": "FMOD for Unity",
+  "description": "This is an example package",
+  "keywords": [
+    "Audio",
+    "FMOD"
+  ],
+  "author": "Firelight Technologies (https://www.fmod.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/fmod-cameron/PackageTest"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
